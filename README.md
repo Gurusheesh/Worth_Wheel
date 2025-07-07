@@ -75,11 +75,7 @@ To develop a machine learning–based web application that accurately predicts t
 
 ---
 
-## 📝 Author
 
-**Harshita Sinha**  
-B.Tech CSE (AI/ML)  
-[LinkedIn](https://www.linkedin.com/) • [GitHub](https://github.com/)
 
 ---
 
