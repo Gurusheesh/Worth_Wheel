@@ -64,7 +64,7 @@ To develop a machine learning–based web application that accurately predicts t
 - 🔨 Code implementation in progress  
 - 🚀 Deployment targeted soon
 
----
+
 
 ## 🧪 Technologies Used
 
